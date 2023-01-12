@@ -1,0 +1,13 @@
+{
+  "name": "course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo 0",
+    "start": "node kp.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
